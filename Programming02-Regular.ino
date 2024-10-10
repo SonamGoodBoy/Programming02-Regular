@@ -2,6 +2,7 @@
 //Function that returns x^2
 int pow2(int x) {
   //Your code here
+  //abcx
 }
 
 //Function that gives back the average of an array
